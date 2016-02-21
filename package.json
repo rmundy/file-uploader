@@ -1,0 +1,19 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmundy/file-uploader.git"
+  },
+  "author": "Bobby Mundy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rmundy/file-uploader/issues"
+  },
+  "homepage": "https://github.com/rmundy/file-uploader#readme"
+}
