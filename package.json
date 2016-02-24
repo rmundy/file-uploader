@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/rmundy/file-uploader/issues"
   },
-  "homepage": "https://github.com/rmundy/file-uploader#readme"
+  "homepage": "https://github.com/rmundy/file-uploader#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "formidable": "^1.0.17",
+    "path": "^0.12.7",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
 }

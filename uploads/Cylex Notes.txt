@@ -1,0 +1,60 @@
+StopLoss: 10 pips
+TakeProfit: 10 pips
+TrailingStop: 1 pip
+Spread: 1 pip
+April 2015: 12465.03
+
+StopLoss: 9 pips
+TakeProfit: 10 pips
+TrailingStop: 1 pip
+Spread: 3 pip
+April 2015: 23.54
+
+StopLoss: 10 pips				
+TakeProfit: 10 pips
+TrailingStop: 4 pips
+Spread: 2 pip
+April 1 2015: 8227.28
+
+StopLoss: 10 pips
+TakeProfit: 10 pips
+TrailingStop: 2 pips
+Spread: 2 pip
+April 1 2015: 8227.28
+
+Bars in test	853
+Ticks modelled	1926626
+Modelling quality	50.00%
+Mismatched charts errors	0
+Initial deposit	200.00
+Spread	20
+Total net profit	-66.12
+Gross profit	25.68
+Gross loss	-91.80
+Profit factor	0.28
+Expected payoff	-2.00
+Absolute drawdown	88.90
+Maximal drawdown	102.64 (48.02%)
+Relative drawdown	48.02% (102.64)
+Total trades	33
+Short positions (won %)	9 (100.00%)
+Long positions (won %)	24 (83.33%)
+Profit trades (% of total)	29 (87.88%)
+Loss trades (% of total)	4 (12.12%)
+	Largest
+profit trade	2.43
+loss trade	-30.60
+	Average
+profit trade	0.89
+loss trade	-22.95
+	Maximum
+consecutive wins (profit in money)	12 (13.14)
+consecutive losses (loss in money)	1 (-30.60)
+	Maximal
+consecutive profit (count of wins)	13.14 (12)
+consecutive loss (count of losses)	-30.60 (1)
+	Average
+consecutive wins	6
+consecutive losses	1
+
+
